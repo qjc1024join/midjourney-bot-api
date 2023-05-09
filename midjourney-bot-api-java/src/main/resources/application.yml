@@ -1,0 +1,16 @@
+server:
+  port: 8899
+
+discord:
+  user-token: '用户token'
+  bot-token: '机器人token'
+  server-id: '服务id'
+  channel-id: '频道id'
+call-back:
+  url: '回调地址'
+
+chatgpt:
+  token: '用户token  chagpt的可以不填写'
+
+
+
